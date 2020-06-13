@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>solid2.png</file>
+        <file>solid4.png</file>
+        <file>AE.jpg</file>
+        <file>HDoddle.jpg</file>
+        <file>Deutschland.png</file>
+        <file>Polska.png</file>
+        <file>UK.png</file>
+        <file>GB.jpg</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
